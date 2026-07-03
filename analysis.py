@@ -16,7 +16,7 @@ from statsmodels.stats.outliers_influence import variance_inflation_factor
 from statsmodels.tools.tools import add_constant
 from sklearn.metrics import roc_auc_score, roc_curve
 
-#test
+#test##test
 
 # 분석·검정·시각화 함수는 utils 모듈에서 import
 from utils.utils import (
